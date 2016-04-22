@@ -1,1 +1,2 @@
 .activeadmin-sortable .handle { cursor: ns-resize; }
+.ui-sortable-helper { display: table; }
